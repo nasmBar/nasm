@@ -1,3 +1,5 @@
+/* Copyright 2013 by trilliondimention@163.com */
+
 #ifndef I3DMATH_H
 #define I3DMATH_H
 

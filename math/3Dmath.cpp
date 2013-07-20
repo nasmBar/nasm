@@ -1,3 +1,6 @@
+/* Copyright 2013 by trilliondimention@163.com */
+
+
 #include "3Dmath.h"
 
 void math_2DVector::normalize()
